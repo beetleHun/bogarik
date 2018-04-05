@@ -1,0 +1,28 @@
+#menu ul {
+  width: 650px;
+  margin: 20px auto;
+  list-style: none;
+}
+
+#menu li {
+  display: inline;
+  padding: 15px 30px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #f05f40;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+#menu li:hover {
+  background: rgba(250, 235, 215, 0.5);
+}
+
+.header {
+  margin: 2px;
+  border-bottom: 1px solid gold;
+}
+
+.header:hover {
+  border-bottom: 3px solid darkred;
+}
